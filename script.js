@@ -54,5 +54,4 @@ document.getElementById('submitGuess').addEventListener('click', () => {
 
 document.getElementById('nextCard').addEventListener('click', loadNewCard);
 
-// เริ่มเกมครั้งแรก
 loadNewCard();
